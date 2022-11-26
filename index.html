@@ -78,7 +78,7 @@
             <a id="footer-logo_link" href="index.html">
                 <img class="logo" src="images/logo.png" alt="Playingwithfriends logo"></a>
             <p>Playingwithfriends &copy; 2022 - Jackson Fonseca</p>            
-            <p><a href="contactus.html">Contact Us</a></p>
+            <p><a href="#">Contact Us</a></p>
             <p><a href="https://jacktrevor.github.io/siteplanplayingwithfriends/">Site Plan</a></p>      
             <div class="social">
                 <a href="https://facebook.com" target="_blank"> 
@@ -93,5 +93,12 @@
             </div>
         </footer>   
     </div>
+    <script>
+        const registrationElement = document.getElementById('registration');
+        const formElement = document.forms[0];
+        formElement.addEventListener('submit', function(e) {
+            e.preventDefault();
+        });
+    </script>    
 </body>
 </html>
