@@ -270,60 +270,70 @@ footer .social img {
     text-align: center;
     height: 50px;
     width: 95%;  
+    margin-bottom: 5px;
 } 
 .rank2 {
     border: solid black;
     text-align: center;
     width: 90%;
-    height: 50px;    
+    height: 50px;   
+    margin-bottom: 5px; 
 }
 .rank3 {
     border: solid black;
     text-align: center;
     width: 85%;
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank4 {
     border: solid black;
     text-align: center;
     width: 80%;
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank5 {
     border: solid black;
     text-align: center;
     width: 75%;
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank6 {
     border: solid black;
     text-align: center; 
     width: 70%;
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank7 {
     border: solid black;
     text-align: center;  
     width: 65%;
-    height: 50px;  
+    height: 50px; 
+    margin-bottom: 5px; 
 }
 .rank8 {
     border: solid black;
     text-align: center;
     width: 60%; 
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank9 {
     border: solid black;
     text-align: center;
     width: 55%;
     height: 50px;  
+    margin-bottom: 5px;
 }
 .rank10 {
     border: solid black;
     text-align: center;
     width: 50%;
-    height: 50px;  
+    height: 50px; 
+    margin-bottom: 5px; 
 }
 
 .games-title {
@@ -444,3 +454,4 @@ footer .social img {
     margin: 20px;
     background-color: #f5f5dc;
 }
+  
